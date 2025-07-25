@@ -15,7 +15,7 @@
 
 ## 🚀 Favorite / Notable Projects
 
-- [Satoshiseye](#) *(add project link if available)*
+- [Satoshiseye](#) *(https://github.com/Master-yug/SatoshisEye)*
 
 ---
 
